@@ -159,10 +159,10 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-## 👤 Mentor
+## 👤 Author
 
-** Name**
-- GitHub: [@your-username](https://github.com/Nilkamal)
+** NILKAMAL MISHRA**
+- GitHub: 
 - LinkedIn: [your-linkedin](https://linkedin.com/in/programmer-Nilkamal)
 
 ---
